@@ -25,7 +25,8 @@ body{
 }
 .imagen {
     border-radius: 50%;
-    width: 32%;
+    width: 5rem;
+    height: 5rem;
 }
 .nombre-ubicacion {
     display: flex;
