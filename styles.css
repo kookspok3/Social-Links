@@ -12,6 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 98vh;
+    min-height: 35rem;
     width: 100%;
 }.box {
     background-color: #1F1F1F;
@@ -20,6 +21,7 @@ body{
     flex-direction: column;
     align-items: center;
     height: 65vh;
+    min-height: 20rem;
     gap: 2%;
     border-radius: 15px;
 }
@@ -88,8 +90,14 @@ footer{
     }
 }
 @media (max-width: 375px){
+    .vs{
+        min-width: 350px;
+        min-height: 500px;
+    }
     .box{
         width: 80%;
+        min-width: 290px;
+        min-height: 450px;
         padding: 1rem;
         justify-content: space-around;
     }
@@ -97,6 +105,8 @@ footer{
 @media (min-width: 375px) {
     .box{
         width: 40vh;
+        min-width: 20rem;
+        min-height: 30rem;
         padding: 1rem;
         justify-content: center;
     }
