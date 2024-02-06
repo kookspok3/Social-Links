@@ -1,4 +1,4 @@
-# Frontend Mentor - Social links profile solution
+# Social Links Profile
 
 First project of frontend mentor. Static page of social links.
 
