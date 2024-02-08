@@ -2,4 +2,4 @@
 
 First project of frontend mentor. Static page of social links.
 
-Live Page: https://kookspok3.github.io/social-links/
+Live Page: https://kookspok3.github.io/Social-Links/
